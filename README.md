@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=💖😇YU鲤看😶‍🌫️🎶&center=true&size=27">  
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💖😇YU鲤看😶‍🌫️🎶&center=true&size=27">   
   </a>
 </h1>
 
@@ -18,5 +18,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> 
 
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=LeoYU7&theme=xcode" /> </div> 
 
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
